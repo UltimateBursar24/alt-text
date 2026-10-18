@@ -1,0 +1,50 @@
+{
+    "name":  "alt-text",
+    "logo":  "♿",
+    "exe":  "AltText.exe",
+    "desc":  "Free, open-source alt text generator for Windows — local vision models write image descriptions in batch. 100 MB portable, offline, MIT.",
+    "topics":  [
+                   "alt-text",
+                   "accessibility",
+                   "image-captioning",
+                   "local-ai",
+                   "onnx",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "wcag",
+                   "batch-processing",
+                   "csv-export",
+                   "social-media",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Local vision captions** — a vision-language model describes each image on your machine, no upload",
+                     "✅ **Length styles** — short WCAG-style alt, social caption and detailed description modes per batch",
+                     "✅ **Context hints** — label the batch product, food or chart and the wording follows that register",
+                     "✅ **Batch folders** — hundreds of images walked and captioned into a filename-to-text CSV",
+                     "✅ **Edit pass** — fix wording in a grid before export, with keyboard-only movement",
+                     "✅ **HTML snippet export** — img tags with alt attributes ready to paste into a site",
+                     "✅ **100 MB self-contained exe** — runtime bundled, vision model downloads separately, offline after that, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **alt-text** | ChatGPT vision | Alt-text cloud APIs | Hand writing |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Free tier | Paid per call | Your hours |",
+                    "| Open source | **Yes** | No | No | N/A",
+                    "| Images stay local | **Yes** | Upload | Upload | Yes",
+                    "| Batch folder with CSV | **Yes** | No | API only | No",
+                    "| Length style presets | **Yes** | Prompted | Prompted | Manual",
+                    "| Portable, no install | **Yes, 100 MB** | Browser | Cloud only | N/A"
+                ],
+    "faqQ":  "generate alt text for many images offline for accessibility compliance?",
+    "faqA":  "Accessibility guidelines require alt text on every image, and cloud vision APIs bill per call while uploading the entire library. alt-text captions folders locally with per-platform styles and exports a CSV or HTML snippets. It is a 100 MB portable exe, MIT, offline.",
+    "s1":  "Dark grid (#121417, green #16A34A): image thumbnails with caption fields beneath, style dropdown reading detailed, progress chip showing 143 of 400 described.",
+    "s2":  "Edit pass: focused caption expanded with keyboard hints, context hint chip reading product photos, quality note on one low-confidence caption in amber.",
+    "s3":  "Export view: CSV preview with filename and alt columns, HTML snippet tab selected, toast reading snippets copied for 400 images."
+}
